@@ -1,3 +1,4 @@
 # trial-repo
 For learning GIt &amp; Github
-Author - Shourya Srivastava
+<br>
+Author - Shourya Srivastava (Student)
